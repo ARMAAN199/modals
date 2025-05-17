@@ -1,4 +1,4 @@
-module github/com/ARMAAN199/modals
+module github.com/ARMAAN199/modals
 
 go 1.21.5
 
